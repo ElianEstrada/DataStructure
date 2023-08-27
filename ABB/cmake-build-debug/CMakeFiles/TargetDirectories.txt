@@ -1,3 +1,0 @@
-/media/elian_estrada/Documents/Elian/2023/EDD/ABB/cmake-build-debug/CMakeFiles/ABB.dir
-/media/elian_estrada/Documents/Elian/2023/EDD/ABB/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/elian_estrada/Documents/Elian/2023/EDD/ABB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
